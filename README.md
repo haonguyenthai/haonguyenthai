@@ -45,7 +45,6 @@ I started in Chemical Engineering (Honours), led digital transformation projects
 
 ## 🗂️ Featured projects
 
-> 👉 Pin repositories below (Settings → Repositories → Pin) so they appear on your profile.
 
 
 ---
@@ -63,6 +62,6 @@ I’m happy to collaborate on **WSI × Spatial Omics**, **foundation model adapt
 * ENTJ · enjoys building **structured learning trackers** and clean pipelines.
 * Friendly reminder: science is a team sport — please open an issue if any repo is missing steps or you hit env problems.
 * 🧭 StrengthsFinder (Top 5)
-  Competition · Command · Maximizer · Significance · Ideation
-  How this shows up: aiming for clear benchmarks, taking ownership, polishing systems for impact, choosing meaningful problems, and generating lots of experiment ideas.
+*    Competition · Command · Maximizer · Significance · Ideation
+*    How this shows up: aiming for clear benchmarks, taking ownership, polishing systems for impact, choosing meaningful problems, and generating lots of experiment ideas.
 
