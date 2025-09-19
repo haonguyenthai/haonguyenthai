@@ -61,7 +61,5 @@ I’m happy to collaborate on **WSI × Spatial Omics**, **foundation model adapt
 
 * ENTJ · enjoys building **structured learning trackers** and clean pipelines.
 * Friendly reminder: science is a team sport — please open an issue if any repo is missing steps or you hit env problems.
-* 🧭 StrengthsFinder (Top 5)
-*    Competition · Command · Maximizer · Significance · Ideation
-*    How this shows up: aiming for clear benchmarks, taking ownership, polishing systems for impact, choosing meaningful problems, and generating lots of experiment ideas.
+* 🧭 StrengthsFinder (Top 5): Competition · Command · Maximizer · Significance · Ideation
 
