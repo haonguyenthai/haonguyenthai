@@ -10,11 +10,15 @@
 > **Research theme:** Learning molecular signals and clinical biomarkers directly from routine histopathology slides by aligning pathology foundation models with spatial transcriptomics/proteomics.
 
 ---
+🔄 Career pivot
 
+Chemical Engineering → Digital Transformation → Computational Biology → Computational Pathology.
+I started in Chemical Engineering (Honours), led digital transformation projects in industry (Unilever and Nestle), pivoted to structual biology (Tokyo Tech), and found my home in AI for pathology & spatial omics—building scalable, reproducible pipelines to bridge images and molecules.
+
+--- 
 ## 🔭 What I’m working on
 
-* **Slide → Gene Expression**: Predict spatial gene expression from H\&E using foundation models (e.g., Prov-GigaPath, Virchow2, UNI, Hibou-L) aligned to **Visium/Xenium** assays.
-* **Benchmarking**: Which genes/pathways are *consistently predictable* and stable across sites/assays? (HE→ST correlation, PCC/AUROC/AUPRC metrics)
+* **Slide → Gene Expression**
 * **Multimodal Fusion**: Combine WSIs + spatial omics + clinical metadata for **subtype** and **risk stratification** in breast cancer.
 * **Efficiency @ Scale**: Memory-safe WSI+ST pipelines on HPC (Slurm, Apptainer), using Dask/Zarr where helpful.
 
@@ -41,26 +45,8 @@
 
 ## 🗂️ Featured projects
 
-* **HEST Bench Extensions** — Baselines and evaluation for image→gene prediction on Visium/Xenium. *Correlations, predictable-gene sets, spatial programs.*
-  `Python · PyTorch · Scanpy · Slurm`
-* **GPFM/CHIEF Fine-tuning for ST** — Adapting pathology foundation models to spatial omics targets.
-  `WSI tiling · Feature extraction · KD/contrastive objectives`
-* **Breast Cancer Biomarkers @ Scale** — Multimodal models for subtype and risk; ablations on encoders (ResNet/ViT/UNI/V2/Hibou-L).
-  `Survival analysis · Calibration · Uncertainty`
-
 > 👉 Pin repositories below (Settings → Repositories → Pin) so they appear on your profile.
 
----
-
-## 📄 Publications & Preprints
-
-* *Add your papers here with links, venue, and year.*
-  Example: **Title**, *Journal/Conference* (Year). [\[PDF\]](https://example.com) [\[Code\]](https://github.com/your-repo)
-
-## 🗣️ Talks & Teaching
-
-* *Journal clubs, workshops, and guest lectures.*
-  Example: “Predicting Spatial Gene Expression from H\&E,” *Lab Journal Club*, 2025. [\[Slides\]](https://example.com)
 
 ---
 
@@ -76,4 +62,7 @@ I’m happy to collaborate on **WSI × Spatial Omics**, **foundation model adapt
 
 * ENTJ · enjoys building **structured learning trackers** and clean pipelines.
 * Friendly reminder: science is a team sport — please open an issue if any repo is missing steps or you hit env problems.
+* 🧭 StrengthsFinder (Top 5)
+  Competition · Command · Maximizer · Significance · Ideation
+  How this shows up: aiming for clear benchmarks, taking ownership, polishing systems for impact, choosing meaningful problems, and generating lots of experiment ideas.
 
