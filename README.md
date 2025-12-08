@@ -13,7 +13,7 @@
 🔄 Career pivot
 
 Chemical Engineering → Digital Transformation → Computational Biology → Computational Pathology.
-I started in Chemical Engineering (Honours), led digital transformation projects in industry (Unilever and Nestle), pivoted to structual biology (Tokyo Tech), and found my home in AI for pathology & spatial omics—building scalable, reproducible pipelines to bridge images and molecules.
+I started in Chemical Engineering (Honours First Class), led digital transformation projects in industry (Unilever and Nestle), pivoted to structual biology (Tokyo Tech), and found my home in AI for pathology & spatial omics—building scalable, reproducible pipelines to bridge images and molecules.
 
 --- 
 ## 🔭 What I’m working on
